@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Minimal.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SkumorphicGallery.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>16AF3D4216C56CA4006E6AA4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>16AF3D6C16C56CA4006E6AA4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>16E7FA7A16D3D2430072A42A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>16E7FA9616D3D2430072A42A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>16E7FAAF16D3D2AB0072A42A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
